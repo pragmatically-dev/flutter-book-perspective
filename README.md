@@ -1,6 +1,6 @@
-# book
+# 3D book model 
 
-A new Flutter project.
+Model created using Transform and ClipPath widgets
 
 ## Getting Started
 
